@@ -1,6 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hard-coders&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Python Developer
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hard-coders&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 - I'm 🇰🇷
 - I like 🍺, 🚬, ☕️ and 🐍(not real python!!)
