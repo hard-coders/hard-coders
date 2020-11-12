@@ -12,8 +12,7 @@ My name is 이호열 in Korean(A real name), but you can call me Spike.
 
 ### Skills
 
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
