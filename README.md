@@ -1,4 +1,4 @@
-## Hi, I'm Spike
+## 🖐 Hi there, I'm Spike
 
 ### 🧑🏻‍💻 About me
 
