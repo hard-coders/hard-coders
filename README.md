@@ -8,7 +8,8 @@ My name is 이호열 in Korean(A real name), but you can call me Spike.
 
 - I'm 🇰🇷
 - I'm Python Developer 🐍
-- I love 🍺, 🚬 and ☕️
+- I love 🍺, ☕️ and 🚬
+- Recently, I fall in love with Rust 🦀
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hard-coders&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
