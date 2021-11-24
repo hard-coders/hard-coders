@@ -11,13 +11,13 @@ My name is 이호열 in Korean(A real name), but you can call me Spike.
 - I love 🍺, ☕️ and 🚬
 - Recently, I fall in love with Rust 🦀
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hard-coders&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 🖋 Activities 
 - I've been translated Python, MDN and [FastAPI](https://github.com/tiangolo/fastapi/issues/2017) documents into Korean.
 - I filmed a [FastCampus All In One Python Web Development](https://fastcampus.co.kr/dev_online_pyweb). Check my [repo](https://github.com/hard-coders/fastcampusapi).
 - At [MADUP](https://github.com/madup-inc), I wrote some [articles](https://tech.madup.com/authors/spike/). I won't forget the days at Madup.
 - Nowdays, I'm working hard at [Fitpet](https://fitpet.co.kr/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hard-coders&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Skills
 
