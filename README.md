@@ -11,8 +11,6 @@ My name is 이호열 in Korean(A real name), but you can call me hard-coder.
 - I'm Cloud Engineer ☁️
 - I love 🍺, ☕️ and 🚬
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hard-coders&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💻 Skills
 
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
