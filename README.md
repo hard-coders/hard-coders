@@ -1,15 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhard-coders%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-## 👋 Hi there, I'm Spike
+## 👋 Hi there, I'm hy Lee
 
 ### 🧑🏻‍💻 About me
 
-My name is 이호열 in Korean(A real name), but you can call me Spike.
+My name is 이호열 in Korean(A real name), but you can call me hard-coder.
 
 - I'm 🇰🇷
 - I'm Python Developer 🐍
+- I'm Cloud Engineer ☁️
 - I love 🍺, ☕️ and 🚬
-- Recently, I fall in love with Rust 🦀
+- Recently, I fell in love with Rust 🦀
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hard-coders&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
